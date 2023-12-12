@@ -20,6 +20,10 @@ Then You can use that data to run my notebook.
 
 There are two excel spreadsheets that are provided CountED_COPD and CountED_Heat. These are the data that are downloaded from the Utah Department of health website. 
 
+The slideshow provides some good visuals and explanations of the models that were used. 
+
+The Project part 4 pdf gives the general outline of the study and my conclusions.
+
 ## Given Files
 
 WildFire.zip (https://drive.google.com/file/d/1bxl9qrb_52RocKNGfbZ5znHVqFDMkUzf/view?usp=drive_link) - This folder contains multiple files. There are three python files which show how to grab a subset of data, read the data and figure out distances.
