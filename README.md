@@ -9,11 +9,16 @@ More and more frequently summers in the western US have been characterized by wi
 
 USGS Database - https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81
 Notebooks provided by David
+Utah Department of Health Website - https://epht.health.utah.gov/epht-view/query/selection/hddb/HDDBSelection.html
+
+
 
 ## Flow of Analysis
 
 Start with downloading the Combined wildland fire datasets for the United States and certain territories, 1800s-Present (combined wildland fire polygons) data, specifically the GeoJSON Files.zip and then the combined dataset. Here is a link: https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81
 Then You can use that data to run my notebook.
+
+There are two excel spreadsheets that are provided CountED_COPD and CountED_Heat. These are the data that are downloaded from the Utah Department of health website. 
 
 ## Given Files
 
