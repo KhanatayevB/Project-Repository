@@ -23,5 +23,7 @@ There are two excel spreadsheets that are provided CountED_COPD and CountED_Heat
 ## Given Files
 
 WildFire.zip (https://drive.google.com/file/d/1bxl9qrb_52RocKNGfbZ5znHVqFDMkUzf/view?usp=drive_link) - This folder contains multiple files. There are three python files which show how to grab a subset of data, read the data and figure out distances.
+
 Distance Notebook (https://drive.google.com/file/d/1qNI6hji8CvDeBsnLDAhJXvaqf2gcg8UV/view?usp=drive_link) - This notebook shows how to do the distance calculations
+
 EPA API (https://drive.google.com/file/d/1bxl9qrb_52RocKNGfbZ5znHVqFDMkUzf/view?usp=drive_link) - This notebook shows some example code on how to use the API
